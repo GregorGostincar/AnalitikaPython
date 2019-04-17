@@ -1,0 +1,9 @@
+Filename: /home/analitikapodatkov/analitika-podatkov/working_directory/teden_01/memscript.py
+
+Line #    Mem usage    Increment   Line Contents
+================================================
+     2    117.1 MiB    117.1 MiB   def funkcija():
+     3    117.1 MiB      0.0 MiB       a= [1]*100000
+     4    123.8 MiB      6.6 MiB       b= [2]*900000
+     5    117.1 MiB      0.0 MiB       del b
+     6    117.1 MiB      0.0 MiB       return a
